@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97235039784",
+    "project_id": "lista-de-tarefas-bea1e",
+    "storage_bucket": "lista-de-tarefas-bea1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97235039784:android:3c9a3439ef5302cfe9671d",
+        "android_client_info": {
+          "package_name": "com.example.listadetarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-dFWl9EKgkZq7NIA4gOUYykrDhUBGTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
