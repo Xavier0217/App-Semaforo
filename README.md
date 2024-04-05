@@ -1,2 +1,2 @@
-# App-Semaforo
-App Android em java sobre semaforo (Necessita de um mqtt para o funcionamento)
+# App-Tarefas
+App Android em java sobre lista de tarefas(necessita de banco de dados firestore no firebase)
